@@ -1,6 +1,6 @@
 #!/bin/bash
 #Kyle McDevitt
-
+#This is my GitHub edit
 filename=$1
 if [ $# -eq 0 ]  
 then
